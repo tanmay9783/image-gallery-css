@@ -22,4 +22,4 @@ A responsive image gallery built using both CSS Grid and Flexbox layouts.
 
 
 ## 🌐 Live Demo
-(Add GitHub Pages link)
+https://tanmay9783.github.io/image-gallery-css/
